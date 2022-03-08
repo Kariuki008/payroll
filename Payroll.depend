@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646747108 source:c:\users\user\documents\sturucturedprogramming 2022\payroll\main.c
+	<stdio.h>
+	<stdlib.h>
+
